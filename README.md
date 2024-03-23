@@ -22,9 +22,6 @@
 
 - 📄 Know about my experiences [https://github.com/adivadrevu/adityavadrevu-resume/releases/download/v1.0/adityavadrevu-resume.pdf](https://github.com/adivadrevu/adityavadrevu-resume/releases/download/v1.0/adityavadrevu-resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
