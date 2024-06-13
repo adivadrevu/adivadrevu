@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-
-- 🌱 I’m currently learning **core and advanced concpets of Java & Java Full Stack (MERN)**
+- I have a good understanding in programming langusgaes like **Java & Python**.
   
 - 💻<a target="_blank" href="https://adityavadrevuportfolio-dev-ed.develop.my.site.com/adiportfolio/"> Check out my portfolio</a>
   <p>
