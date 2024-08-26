@@ -7,7 +7,7 @@
 
 - I have a good understanding in programming langusgaes like **Java & Python**.
   
-- 💻<a target="_blank" href="https://adityavadrevuportfolio-dev-ed.develop.my.site.com/adiportfolio/"> Check out my portfolio</a>
+- 💻<a target="_blank" href="https://adityavadrevu..........portfolio-dev-ed.develop.my.site.com/adiportfolio/"> Check out my portfolio</a>
   <p>
 
 - 📫 You can reach me by 👉 **adityavadrevu92@gmail.com**
