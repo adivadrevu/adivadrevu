@@ -5,11 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- I have a good understanding in programming langusgaes like **Java & Python**.
+-  **Java & Python**.
   
-- 💻<a target="_blank" href="https://adityavadrevu..........portfolio-dev-ed.develop.my.site.com/adiportfolio/"> Check out my portfolio</a>
-  <p>
-
 - 📫 You can reach me by 👉 **adityavadrevu92@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/adivadrevu/adityavadrevu-resume/releases/download/v1.0/adityavadrevu-resume.pdf](https://github.com/adivadrevu/adityavadrevu-resume/releases/download/v1.0/adityavadrevu-resume.pdf)
