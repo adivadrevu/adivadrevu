@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
--  **Java & Python**.
+-  **Java & Python and React.js**.
   
 - 📫 You can reach me by 👉 **adityavadrevu92@gmail.com**
 
