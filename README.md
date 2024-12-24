@@ -49,8 +49,11 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adivadrevu&show_icons=true&theme=radical&exclude_repo=Jupyter-notebooks" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adivadrevu&layout=compact&theme=radical&exclude_repo=Jupyter-notebooks" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adivadrevu&layout=compact&theme=radical&exclude_repo=Car-Insurance-Claim-Prediction,Diabetes-Prediction&include_repo=react,java,dsa&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff" alt="Top Languages"/>
 </div>
+
+
+
 
 ---
 
