@@ -1,6 +1,6 @@
 ![Header](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)
 
-<h1 align="center">Hello! 👋 I'm Aditya Vadrevu</h1>
+<h1 align="center">Hello! 👋 I'm Adi...</h1>
 <h3 align="center">Software Developer 
 
 ---
