@@ -60,7 +60,8 @@
 ### 🏆 Notable Projects
 
 - [**Java DSA Repository**](https://github.com/adivadrevu/Java-DSA): Daily Data Structures and Algorithms practice in Java.
-
+- [**iCare**](https://github.com/adivadrevu/Project-iCare): A Full Stack Application for Health care services.
+- [**Game Slot Machine**](https://github.com/adivadrevu/Game_SlotMachine)): The Slot Machine Game Project.
 
 
 ---
