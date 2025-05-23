@@ -7,9 +7,7 @@
 
 ### About Me
 
-- 🔥 **Passionate Developer:** Skilled in **Java**, **Python**, and **React.js**.
-- 🌱 **Currently Learning:** Advanced Data Structures, Cloud Technologies (AWS).
-- 💼 **Professional Experience:** Over 1+ years experience in Software Development.
+- 🔥 **Passionate Developer:** Skilled in  **Python**, **Java**, and **AI/ML**.
 - 🌐 **Portfolio:** [adivadrevu.github.io/aditya-vadrevu](https://adivadrevu.github.io/aditya-vadrevu/)
 - 📫 **Contact Me:** [adityavadrevu92@gmail.com](mailto:adityavadrevu92@gmail.com)
 
