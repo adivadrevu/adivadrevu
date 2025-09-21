@@ -7,11 +7,11 @@
 
 ### About Me
 
-- 🤖 **ML Engineer:** Specialized in building scalable machine learning systems and deploying AI solutions.
-- 🧠 **Expertise:** Deep Learning, Computer Vision, NLP, and MLOps with hands-on experience in production environments.
-- 🐍 **Core Languages:** Python, C++, and CUDA for high-performance ML model development and optimization.
-- 🌐 **Portfolio:** [adivadrevu.github.io/aditya-vadrevu](https://adivadrevu.github.io/aditya-vadrevu/)
-- 📫 **Contact Me:** [adityavadrevu92@gmail.com](mailto:adityavadrevu92@gmail.com)
+- **ML Engineer:** Specialized in building scalable machine learning systems and deploying AI solutions.
+- **Expertise:** Deep Learning, Computer Vision, NLP, and MLOps with hands-on experience in production environments.
+- **Core Languages:** Python, C++, and CUDA for high-performance ML model development and optimization.
+- **Portfolio:** [adivadrevu.github.io/aditya-vadrevu](https://adivadrevu.github.io/aditya-vadrevu/)
+- **Contact Me:** [adityavadrevu92@gmail.com](mailto:adityavadrevu92@gmail.com)
 
 ---
 
@@ -161,10 +161,10 @@
 
 I'm always interested in collaborating on exciting ML projects, research papers, and open-source contributions. Feel free to reach out if you'd like to work together on:
 
-- 🤖 Building innovative ML solutions
-- 📊 Data science and analytics projects  
-- 🔬 Research in deep learning and AI
-- 🚀 MLOps and production ML systems
+- Building innovative ML solutions
+- Data science and analytics projects  
+- Research in deep learning and AI
+- MLOps and production ML systems
 
 
 
